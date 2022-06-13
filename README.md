@@ -1,7 +1,7 @@
 # Dell Hackintosh macOS BigSur
 Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 
-Dell Inspiron 3583 = Success on macOS BigSur 
+      Dell Inspiron 3583 = Success on macOS BigSur 
 
 
 
