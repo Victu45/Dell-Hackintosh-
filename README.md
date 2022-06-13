@@ -5,6 +5,7 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 
 - MacOS Big Sur 11.6.1
 - OpenCore Boot
+- https://ibb.co/r5fk5g0
 
 [ EFi Download ](https://www.mediafire.com/file/cqjq7o7njezmoed/EFI.zip/file?fbclid=IwAR0Zm5u9NNWgu0LxENalGU6mBU9c7V9v7ISfh9z_NfHOG0rOBJFP9futgRQ)
 
