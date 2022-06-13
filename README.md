@@ -31,6 +31,7 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 |  Keyboard) |   |
 |  USB |   |
 |  iCloud |   |
+|  Apple Services |   |
 |  WebCam |   |
 |  UHD620 |   |
 
