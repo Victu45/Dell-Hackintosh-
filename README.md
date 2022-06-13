@@ -20,7 +20,7 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
  | SMBIOS | MacBook Pro 15,2|
 
 
-| Working ✅  |  Did not work ❌ |
+| Working.  |  What didn't work. |
 | ------------------- | ------------------- |
 | Brightnes |  (Virtualization for some reason didn't work) |
 |  WiFi (Intel) |   |
@@ -41,5 +41,6 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
  | i3 8145U 2.3GHz   | 
  | 4GB |
  | SSD Patriot Burst 120GB |
+ | Dell Inspiron 3583 |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
