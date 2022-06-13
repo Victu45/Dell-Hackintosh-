@@ -1,15 +1,20 @@
-# Dell-Hackintosh MacOS BigSur
+# Dell Hackintosh macOS BigSur
 Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 
-> _Dell Inspiron 3583 = Success._
+                                             Dell Inspiron 3583 = Success on macOS BigSur
 
-- MacOS Big Sur 11.6.1
-- OpenCore Boot
-- https://ibb.co/r5fk5g0
+![Victor](https://user-images.githubusercontent.com/90351204/173390423-5266c3f8-8d7e-40c3-9758-e8ebf393f3da.png)
 
-[ EFi Download ](https://www.mediafire.com/file/cqjq7o7njezmoed/EFI.zip/file?fbclid=IwAR0Zm5u9NNWgu0LxENalGU6mBU9c7V9v7ISfh9z_NfHOG0rOBJFP9futgRQ)
 
--   Working
+
+
+
+ MacOS Big Sur 11.6.1
+
+OpenCore Boot
+ > SMBIOS MacBook Pro 15,2
+
+-   Working ✅
 
 > Brightnes
 > 
@@ -34,7 +39,7 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 > UHD 620
 > 
 
--   Did not work
+-   Did not work ❌
 
 > Bluestacks (Virtualization for some reason didn't work)
 - My Hardware
