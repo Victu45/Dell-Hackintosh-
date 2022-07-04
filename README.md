@@ -6,7 +6,7 @@ Updates for Dell Inspiron 3583 Hackintosh and EFi's.
 
 
 
-| System Information |  
+| DISCONTINUATED PROJECT  |  
 | ------------------- | 
 |  ![Victor](https://user-images.githubusercontent.com/90351204/173390423-5266c3f8-8d7e-40c3-9758-e8ebf393f3da.png) | 
 
